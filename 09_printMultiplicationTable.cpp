@@ -8,4 +8,5 @@ int main()
     {
         std::cout<<num<<" x "<<i<<"\t=\t"<<num*i<<"\n";
     }
+    return 0;
 }

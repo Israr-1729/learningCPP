@@ -12,4 +12,5 @@ int main()
         copy/=10;
     }
     std::cout<<"The reverse of "<<num<<" is "<<reverse;
+    return 0;
 }
